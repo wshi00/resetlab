@@ -1,0 +1,2 @@
+# resetlab
+reset lab
